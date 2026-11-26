@@ -23,6 +23,10 @@
 
 **2. Sproutly – An Autonomous Smart Plant Guardian**
 - Designed a smart plant-watering project focused on monitoring plant conditions and automating watering.
+**3. Beginner Developer Ecosystem Portfolio**
+
+- Created a developer portfolio demonstrating Linux commands, Bash automation scripts, Git/GitHub workflows, and REST API integration.
+- GitHub: [DeveloperPortfolio](https://github.com/itscha1tanya/DeveloperPortfolio)
 
 ## Currently Working On
 
