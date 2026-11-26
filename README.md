@@ -37,4 +37,4 @@
 ## Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/chaitanya-verma-56b4ab404
-- **GitHub:** https://github.com/itscha1tanya
+- **GitHub:** - [itscha1tanya](https://github.com/itscha1tanya)
